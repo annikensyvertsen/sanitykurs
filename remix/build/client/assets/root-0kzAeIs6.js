@@ -1,0 +1,1 @@
+import{x as s,M as e,L as r,O as x,S as a}from"./components-BloLz6jZ.js";function t(){return s.jsxs("html",{children:[s.jsxs("head",{children:[s.jsx("link",{rel:"icon",href:"data:image/x-icon;base64,AA"}),s.jsx(e,{}),s.jsx(r,{})]}),s.jsxs("body",{children:[s.jsx("h1",{children:"Hello world!"}),s.jsx(x,{}),s.jsx(a,{})]})]})}export{t as default};
